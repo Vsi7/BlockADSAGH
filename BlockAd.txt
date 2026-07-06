@@ -126762,7 +126762,7 @@
 #@@/\.yandex\.ru$/
 @@||pixel.stream.voidboost.cc^$important
 @@||footprints-pa.googleapis.com^$important
-/^(.+[_.-])?(lb|db|b)\._dns-sd*[_.-]/
+#/^(.+[_.-])?(lb|db|b)\._dns-sd*[_.-]/
 @@||stat.flixcdn.space^$important
 #@@||report.appmetrica.yandex.net^$client=
 @@||analytics.api.polaris-iot.com^$important
