@@ -1,3 +1,6 @@
+||t.mail.ru^
+||r.mail.ru^
+||appsflyer.com^
 ||awin1.com^
 ||firebase-settings.crashlytics.com^
 ||pemsrv.com^
