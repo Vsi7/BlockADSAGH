@@ -41,7 +41,7 @@
 ||greatis.com^
 ||connect.facebook.net^
 ||tr.facebook.com^
-||i.instagram.com^
+#||i.instagram.com^
 ||xp.apple.com^
 ||mads-eu.amazon.com^
 ||shareasale-analytics.com^
