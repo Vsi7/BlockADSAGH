@@ -96328,7 +96328,6 @@
 ||events-drcn.op.dbankcloud.cn^
 ||events.adwidecenter.com^
 ||events.anzuinfra.com^
-@@||self.events.data.microsoft.com
 ||events.data.microsoft.com^
 ||events.influencemobile.com^
 ||events.jianshu.io^
@@ -126642,7 +126641,7 @@
 ||statsfe2.update.microsoft.com.akadns.net^
 ||sls.update.microsoft.com.akadns.net^
 ||feedback.windows.com^
-||data.microsoft.com^
+#||data.microsoft.com^
 # uTorrent ads
 ||static.ap.bittorrent.com^
 # Extra sources
